@@ -8,9 +8,11 @@ sv-ttk (for modern theme)
 
 Installation
 1. Clone the repository:
-        git clone https://github.com/your-username/book-library-management.git cd book-library-management.
+        git clone https://github.com/BhupendraTiwari-11/book-library-management.git cd book-library-management.
 2.Install dependencies:
   Install the sv-ttk library using pip:
         pip install sv-ttk
 3. Run the application:
         python library_management.py
+Note: If python doesn't work, try python3 depending on your system configuration:
+         python3 library_management.py
