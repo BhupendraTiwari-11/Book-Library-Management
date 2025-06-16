@@ -1,10 +1,10 @@
  Launch the application using the command above.
  Select an action from the dropdown menu:
-  Add Book: Enter a unique Book ID, Title, and Author to add a book.
-  Remove Book: Enter a Book ID to remove a book from the library.
-  Issue Book: Enter a Book ID and Student Name to issue a book (sets a 14-day due date).
-  Return Book: Enter a Book ID to return a book and calculate any fines.
-  View Books: Display all books with their ID, Title, Author, and Status.
+   >>Add Book: Enter a unique Book ID, Title, and Author to add a book.
+   >>Remove Book: Enter a Book ID to remove a book from the library.
+   >>Issue Book: Enter a Book ID and Student Name to issue a book (sets a 14-day due date).
+   >>Return Book: Enter a Book ID to return a book and calculate any fines.
+   >>View Books: Display all books with their ID, Title, Author, and Status.
  Click the Submit button to perform the selected action.
  Results or error messages (e.g., "Book ID not found") will appear below the Submit button.
  Book data is automatically saved to library_data.json after each action.
